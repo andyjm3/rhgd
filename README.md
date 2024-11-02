@@ -1,4 +1,4 @@
-# A Framework for Bilevel Optimization on Riemannian Manifolds
+# A Framework for Bilevel Optimization on Riemannian Manifolds (NeurIPS 2024)
 The code implementation for "A Framework for Bilevel Optimization on Riemannian Manifolds", which is accepted to NeurIPS 2024.
 
 Preprint available on https://arxiv.org/pdf/2402.03883
